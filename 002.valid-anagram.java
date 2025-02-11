@@ -6,7 +6,7 @@ class Solution {
         String[] ta = t.split("");
 
         Arrays.sort(sa);
-        Arrays.sort(ta);
+        Arrays.sort(ta);// sort the arrays
 
         // for(int i=0;i<sa.length;i++){
         //     System.out.print(sa[i] + ",");
