@@ -11,5 +11,6 @@ NeetCodeの記録(2025/2/10開始)
 | 004 | 4/15 | Valid Pelindrome | Easy | [Valid Pelindrome](https://neetcode.io/problems/alid-pelindrome) | [Answer](https://github.com/Riochin/NeetCode/blob/main/cpp/004.valid-pelindrome.cpp) | None |
 | 005 | 4/15 | Group Anagrams | Easy | [Group Anagrams](https://neetcode.io/problems/group-anagrams) | [Answer](https://github.com/Riochin/NeetCode/blob/main/cpp/005.group-anagrams.cpp) | None |
 | 006 | 5/23 | Binary Search | Easy | [Binary Search](https://neetcode.io/problems/binary-search) | [Answer](https://github.com/Riochin/NeetCode/006.binary-search.cpp) | None |
-| 007 | 6/5 | Stack | Easy | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/007.validate-parentheses.java) | [#1](https://github.com/Riochin/NeetCode/issues/1) |
+| 007 | 6/4 | Stack | Easy | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/007.validate-parentheses.java) | [#1](https://github.com/Riochin/NeetCode/issues/1) |
+| 008 | 6/5 | Arrays & Hashing | Medium | [Group Anagrams](https://neetcode.io/problems/anagram-groups?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/commit/4376fb32e6431e98df6aa82e21bdf43bd676cb3f) | [#2](https://github.com/Riochin/NeetCode/issues/2) |
 | No. | Date | Topics | Difficulty | Problem | Answer | Ex. |
