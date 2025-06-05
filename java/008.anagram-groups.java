@@ -5,12 +5,12 @@ import java.util.*;
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         final int N = strs.length;
-        HashMap<String,ArrayList<String>> map = new HashMap<>();
+        HashMap<String,List<String>> map = new HashMap<>();
 
         for(String s: strs){
             char[] charArr = s.toCharArray();
             Arrays.sort(charArr);
-            String newStr = new String(charArr);
+            String newStr = String.valueOf(charArr);
 
             if(map.containsKey(newStr)){
                 map.get(newStr).add(s);
@@ -21,13 +21,6 @@ class Solution {
             }
         }
 
-        Set<String> anagrams = map.keySet();
-        List<List<String>> result = new ArrayList<>();
-
-        for(String key: anagrams){
-            result.add(map.get(key));
-        }
-
-        return result;
+        return new ArrayList<>(map.values());
     }
 }
