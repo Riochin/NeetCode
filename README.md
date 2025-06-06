@@ -13,4 +13,7 @@ NeetCodeの記録(2025/2/10開始)
 | 006 | 5/23 | Binary Search | Easy | [Binary Search](https://neetcode.io/problems/binary-search) | [Answer](https://github.com/Riochin/NeetCode/006.binary-search.cpp) | None |
 | 007 | 6/4 | Stack | Easy | [Valid Parentheses](https://neetcode.io/problems/validate-parentheses?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/007.validate-parentheses.java) | [#1](https://github.com/Riochin/NeetCode/issues/1) |
 | 008 | 6/5 | Arrays & Hashing | Medium | [Group Anagrams](https://neetcode.io/problems/anagram-groups?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/commit/4376fb32e6431e98df6aa82e21bdf43bd676cb3f) | [#2](https://github.com/Riochin/NeetCode/issues/2) |
+| 009 | 6/6 | Linked List | Easy | [Reverse a Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/009.reverse-a-linked-list.java) | None |
+| 010 | 6/6 | Linked List | Easy | [Reverse a Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/010.reverse-a-linked-list.java) | None |
+| 011 | 6/6 | Linked List | Easy | [Merge Two Linked List](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/011.merge-two-sorted-linked-list.java) | None |
 | No. | Date | Topics | Difficulty | Problem | Answer | Ex. |
