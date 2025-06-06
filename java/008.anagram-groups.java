@@ -4,7 +4,6 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        final int N = strs.length;
         HashMap<String,List<String>> map = new HashMap<>();
 
         for(String s: strs){
