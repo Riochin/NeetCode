@@ -16,4 +16,7 @@ NeetCodeの記録(2025/2/10開始)
 | 009 | 6/6 | Linked List | Easy | [Reverse a Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/009.reverse-a-linked-list.java) | None |
 | 010 | 6/6 | Linked List | Easy | [Reverse a Linked List](https://neetcode.io/problems/reverse-a-linked-list?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/010.reverse-a-linked-list.java) | None |
 | 011 | 6/6 | Linked List | Easy | [Merge Two Linked List](https://neetcode.io/problems/merge-two-sorted-linked-lists?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/011.merge-two-sorted-linked-list.java) | None |
+| 012 | 6/9 | Trees | Easy | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/012.invert-a-binary-tree.java) | None |
+| 013 | 6/9 | Trees | Easy | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/013.depth-of-binary-tree.java) | None |
+| 014 | 6/9 | Trees | Easy | [Same Tree](https://neetcode.io/problems/same-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/014.same-binary-tree.java) | None |
 | No. | Date | Topics | Difficulty | Problem | Answer | Ex. |
