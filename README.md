@@ -19,4 +19,6 @@ NeetCodeの記録(2025/2/10開始)
 | 012 | 6/9 | Trees | Easy | [Invert Binary Tree](https://neetcode.io/problems/invert-a-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/012.invert-a-binary-tree.java) | None |
 | 013 | 6/9 | Trees | Easy | [Maximum Depth of Binary Tree](https://neetcode.io/problems/depth-of-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/013.depth-of-binary-tree.java) | None |
 | 014 | 6/9 | Trees | Easy | [Same Tree](https://neetcode.io/problems/same-binary-tree?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/014.same-binary-tree.java) | None |
+| 015 | 6/10 | Trees | easy | [binary tree diameter](https://neetcode.io/problems/binary-tree-diameter?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/015.binary-tree-diameter.java) | None |
+| 016 | 6/10 | Trees | easy | [binary tree diameter](https://neetcode.io/problems/binary-tree-diameter?list=blind75) | [Answer](https://github.com/Riochin/NeetCode/blob/main/java/016.binary-tree-diameter.java) | None |
 | No. | Date | Topics | Difficulty | Problem | Answer | Ex. |
