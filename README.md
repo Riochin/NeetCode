@@ -22,4 +22,7 @@ NeetCodeの記録(2025/2/10開始)
 | 015 | 6/10 | Trees | Easy | [binary tree diameter](https://neetcode.io/problems/binary-tree-diameter?list=blind75) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/015.binary-tree-diameter.java) | None |
 | 016 | 6/10 | Trees | Easy | [binary tree diameter](https://neetcode.io/problems/binary-tree-diameter?list=blind75) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/016.binary-tree-diameter.java) | None |
 | 017 | 6/11 | Trees | Easy | [Balanced Binary Tree](https://neetcode.io/problems/balanced-binary-tree?list=blind75) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/017.balanced-binary-tree.java) | Ex. |
+| 018 | 6/24 | Trees | Easy | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/018.subtree-of-a-binary-tree.java) | None |
+| 019 | 6/25 | Sliding Window | Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/019.buy-and-sell-crypto.java) | None |
+| 020 | 6/25 | Sliding Window | Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/020.buy-and-sell-crypto.java) | None |
 | No. | Date | Topics | Difficulty | Problem | Code | Ex. |
