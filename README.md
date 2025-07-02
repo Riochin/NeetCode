@@ -25,4 +25,7 @@ NeetCodeの記録(2025/2/10開始)
 | 018 | 6/24 | Trees | Easy | [Subtree of Another Tree](https://neetcode.io/problems/subtree-of-a-binary-tree?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/018.subtree-of-a-binary-tree.java) | None |
 | 019 | 6/25 | Sliding Window | Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/019.buy-and-sell-crypto.java) | None |
 | 020 | 6/25 | Sliding Window | Easy | [Best Time to Buy and Sell Stock](https://neetcode.io/problems/buy-and-sell-crypto?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/020.buy-and-sell-crypto.java) | None |
+| 021 | 6/28 | Binary Search | Easy | Binary Search | [Code](https://github.com/Riochin/NeetCode/blob/main/java/021.binary-search.java) | None |
+| 022 | 7/2 | Arrays & Hashing | Medium | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/022.top-k-frequent-elements.java) | None |
+| 023 | 7/2 | Arrays & Hashing | Medium |[ Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/023.top-k-frequent-elements.java) | None |
 | No. | Date | Topics | Difficulty | Problem | Code | Ex. |
