@@ -1,5 +1,8 @@
 package java;
 
+// time Complexity: O(NlogN)
+// space Complexity: O(N)
+
 import java.util.*;
 
 class Solution {
@@ -13,7 +16,7 @@ class Solution {
         for(Map.Entry<Integer, Integer> entry: count.entrySet()){
             countArr.add(new int[]{entry.getValue(), entry.getKey()});
         }
-        countArr.sort((a,b) -> b[0] - a[0]);
+        countArr.sort((a,b) -> b[0] - a[0]); // sort O(NlogN)
         // <value: appearance count, key: number>
 
         int[] results = new int[k];
