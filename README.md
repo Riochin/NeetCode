@@ -28,4 +28,8 @@ NeetCodeの記録(2025/2/10開始)
 | 021 | 6/28 | Binary Search | Easy | Binary Search | [Code](https://github.com/Riochin/NeetCode/blob/main/java/021.binary-search.java) | None |
 | 022 | 7/2 | Arrays & Hashing | Medium | [Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/022.top-k-frequent-elements.java) | None |
 | 023 | 7/2 | Arrays & Hashing | Medium |[ Top K Frequent Elements](https://neetcode.io/problems/top-k-elements-in-list?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/023.top-k-frequent-elements.java) | None |
-| No. | Date | Topics | Difficulty | Problem | Code | Ex. |
+| 024 | 7/3 | Stack | Medium | [Minimum Stack](https://neetcode.io/problems/minimum-stack?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/024.minimum-stack.java) | None |
+| 025 | 7/3 | Stack | Medium | [Evaluate Reverse Polish Notation](https://neetcode.io/problems/evaluate-reverse-polish-notation?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/025.evaluate-reverse-polish-notation.java) | None |
+| 026 | 7/3 | Stack | Medium | [Generate Parentheses](https://neetcode.io/problems/generate-parentheses?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/026.generate-paratheses.java) | None |
+| 027| 7/3 | Binary Search | Medium | [Search a 2D Matrix](https://neetcode.io/problems/search-2d-matrix?list=neetcode150) | [Code](https://github.com/Riochin/NeetCode/blob/main/java/027.search-a-2d-matrix.java) | None |
+| No. | Date | Topics | Difficulty | Problem | Code | None |
