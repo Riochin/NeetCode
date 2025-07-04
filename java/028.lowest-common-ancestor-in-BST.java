@@ -7,7 +7,6 @@ package java;
 // 左右片方にしかp, qが集中していない場合は進む
 
 class Solution {
-    Definition for a binary tree node.
     public class TreeNode {
         int val;
         TreeNode left;
