@@ -1,38 +1,32 @@
 package java;
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 // Time complexity: O(N)
-// Space complexity: O(1) 同じ参照を繰り返すだけなため（HashSetを使うと、Listの分だけ領域を取りうる
+// Space complexity: O(N)
 
-class Solution {
-    class ListNode {
+// ⚠️ 同じ値があるリストだと、動かない可能性あり
+// 💡 HashMap<ListNode, Integer > にする
+// 💡 ついでに、HashSetで`.contains`の重複チェックだけで良い。
+
+ import java.util.*;
+
+ class Solution {
+    public class ListNode{
         int val;
         ListNode next;
         ListNode(){}
         ListNode(int val){this.val = val;}
-        ListNode(int val, ListNode next){this.val = val;this.next = next;}
+        ListNode(int val, ListNode next){this.val = val; this.next=next;}
     }
 
     public boolean hasCycle(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
-
-        while(fast != null && fast.next != null){
-            fast = fast.next.next;
-            slow = slow.next;
-            if(fast == slow){
+        HashMap<Integer, Integer> map = new HashMap<>(); // <Integer num, Integer count>
+        
+        while(head != null){
+            map.put(head.val, map.getOrDefault(head.val, 0) + 1);
+            if(map.get(head.val) == 2){
                 return true;
             }
+            head  = head.next;
         }
         return false;
     }
