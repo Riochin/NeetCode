@@ -1,20 +1,7 @@
 package java.Trees;
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// Binary Tree Level Order Traversal  
+// 🔗https://neetcode.io/problems/level-order-traversal-of-binary-tree?list=blind75
 
 // Time complexity: O(N)
 // Space complexity: O(N)
